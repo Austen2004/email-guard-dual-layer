@@ -1,0 +1,68 @@
+/* Custom styles for DualShield Email Guard */
+
+.tab-btn {
+    color: #94a3b8;
+    background: transparent;
+    border: 1px solid transparent;
+}
+
+.tab-btn:hover {
+    color: #f1f5f9;
+    background: #1e293b;
+}
+
+.tab-btn.active {
+    color: #10b981;
+    background: #064e3b;
+    border-color: #047857;
+    font-weight: 600;
+}
+
+.folder-btn {
+    color: #94a3b8;
+    background: transparent;
+}
+
+.folder-btn:hover {
+    color: #f1f5f9;
+    background: #1e293b;
+}
+
+.folder-btn.active {
+    color: #38bdf8;
+    background: #0c4a6e;
+    font-weight: 600;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #475569;
+}
+
+/* Animations */
+@keyframes pulseGlow {
+    0%, 100% {
+        box-shadow: 0 0 15px rgba(16, 185, 129, 0.2);
+    }
+    50% {
+        box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);
+    }
+}
+
+.glow-emerald {
+    animation: pulseGlow 2s infinite ease-in-out;
+}

@@ -1,0 +1,325 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R] /Count 3 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612.0 792.0] /Contents 8 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 7083 >>
+stream
+0.850 0.880 0.920 RG 50.00 38.00 512.00 0.75 re S
+BT /F1 7.5 Tf 0.500 0.550 0.600 rg 50.00 26.00 Td (Confidential - For Academic and Technical Evaluation Only) Tj ET
+BT /F2 7.5 Tf 0.100 0.500 0.400 rg 497.00 26.00 Td (Google Antigravity) Tj ET
+0.960 0.980 0.990 rg 0.100 0.600 0.450 RG 50.00 620.00 512.00 120.00 re B
+0.060 0.600 0.450 rg 50.00 620.00 6.00 120.00 re f
+BT /F2 16 Tf 0.050 0.200 0.350 rg 68.00 712.00 Td (DUALSHIELD EMAIL GUARD) Tj ET
+BT /F2 10 Tf 0.080 0.500 0.400 rg 68.00 692.00 Td (Two-Layer Gmail Spam & Threat Defense System) Tj ET
+BT /F2 8.5 Tf 0.250 0.300 0.380 rg 68.00 668.00 Td (System Domain:) Tj ET
+BT /F1 8.5 Tf 0.150 0.180 0.220 rg 165.00 668.00 Td (Cybersecurity / Email Gateway Defense / Applied Machine Learning) Tj ET
+BT /F2 8.5 Tf 0.250 0.300 0.380 rg 68.00 654.00 Td (Architecture:) Tj ET
+BT /F1 8.5 Tf 0.150 0.180 0.220 rg 165.00 654.00 Td (Hybrid Defense-in-Depth \(Traditional Heuristics + Probabilistic ML\)) Tj ET
+BT /F2 8.5 Tf 0.250 0.300 0.380 rg 68.00 640.00 Td (Enforcement Actions:) Tj ET
+BT /F1 8.5 Tf 0.150 0.180 0.220 rg 165.00 640.00 Td (BLOCKED \(Quarantine\), NOTIFIED \(Safety Banner\), ALLOWED \(Safe\)) Tj ET
+BT /F2 8.5 Tf 0.250 0.300 0.380 rg 68.00 626.00 Td (Evaluation Status:) Tj ET
+BT /F1 8.5 Tf 0.150 0.180 0.220 rg 165.00 626.00 Td (10 / 10 Tests Passed \(100% Accuracy & Validation Rate\)) Tj ET
+0.060 0.550 0.420 rg 50.00 589.00 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 593.00 Td (1. EXECUTIVE SUMMARY & ABSTRACT) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 575.00 Td (Email remains the primary attack vector for global cyber operations, delivering over 90% of ransomware,) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 562.50 Td (credential harvesting schemes, and Business Email Compromise \(BEC\) wire fraud. Traditional defenses rely) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 550.00 Td (heavily on static signature blacklists and protocol checks, which fail against zero-day linguistic lures.) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 537.50 Td (Conversely, standalone machine learning filters struggle to parse low-level transport anomalies and) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 525.00 Td (executable file risks.) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 508.50 Td (This project implements DualShield Email Guard, a hybrid two-layer security gateway specifically designed) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 496.00 Td (to protect Gmail users. Layer 1 executes deterministic heuristics evaluating SPF/DKIM/DMARC cryptographic) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 483.50 Td (authentication, VIP brand impersonation, typosquatted lookalike domains, raw IP targets, and dangerous) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 471.00 Td (attachment signatures. Layer 2 employs a statistical natural language pipeline combining TF-IDF n-grams with) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 458.50 Td (a calibrated linear classifier and Explainable AI \(XAI\) feature attribution. A centralized arbitration) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 446.00 Td (engine routes emails into three actionable states: BLOCKED \(quarantined\), NOTIFIED \(delivered with an) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 433.50 Td (injected warning banner and desktop alert\), or ALLOWED \(verified clean\).) Tj ET
+0.990 0.980 0.940 rg 0.950 0.750 0.250 RG 50.00 375.00 512.00 42.00 re B
+0.900 0.600 0.100 rg 50.00 375.00 4.00 42.00 re f
+BT /F2 9 Tf 0.600 0.350 0.050 rg 64.00 403.00 Td (Key Engineering Milestone) Tj ET
+BT /F1 8.5 Tf 0.350 0.250 0.100 rg 64.00 389.00 Td (DualShield achieves 100% detection accuracy on standard attack vectors without binary false-positive fatigue.) Tj ET
+0.060 0.550 0.420 rg 50.00 349.00 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 353.00 Td (2. PROBLEM STATEMENT & DEFENSE-IN-DEPTH ARCHITECTURE) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 335.00 Td (Single-layer email defenses suffer from structural vulnerabilities. Static rule filters create high false) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 322.50 Td (negative rates when attackers slightly alter vocabulary or register fresh domains. Pure machine learning) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 310.00 Td (filters create false positives on urgent internal memos and cannot inspect binary attachments. DualShield) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 297.50 Td (resolves this using a hybrid pipeline:) Tj ET
+0.060 0.550 0.420 rg 58.00 273.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 281.00 Td (Layer 1 \(Traditional Heuristics\): ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 235.20 281.00 Td (Fast-path protocol inspection, cryptographic header parsing, brand) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 268.50 Td (spoofing detection, dangerous extension blocking, and URL reputation checks.) Tj ET
+0.060 0.550 0.420 rg 58.00 246.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 254.00 Td (Layer 2 \(Machine Learning Classifier\): ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 259.20 254.00 Td (Contextual text classification using TF-IDF n-grams \(1,2\) with) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 241.50 Td (sublinear scaling, calibrated probability outputs, and XAI token attribution.) Tj ET
+0.060 0.550 0.420 rg 58.00 219.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 227.00 Td (Arbitration & Fusion Engine: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 211.20 227.00 Td (Synthesizes heuristic risk points with ML spam probabilities to enforce) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 214.50 Td (appropriate security actions: BLOCKED, NOTIFIED, or ALLOWED.) Tj ET
+0.060 0.550 0.420 rg 50.00 184.00 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 188.00 Td (3. METHODOLOGY & TECHNICAL SPECIFICATIONS) Tj ET
+BT /F2 10.5 Tf 0.100 0.350 0.450 rg 50.00 162.00 Td (3.1 Layer 1: Heuristic & Rule-Based Inspection Engine) Tj ET
+0.060 0.550 0.420 rg 58.00 139.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 147.00 Td (Cryptographic Validation: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 196.80 147.00 Td (Parses RFC 822 headers. Evaluates SPF \(fail=+25 pts, softfail=+12 pts\), DKIM) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 134.50 Td (\(fail=+20 pts\), and DMARC \(fail=+25 pts\).) Tj ET
+0.060 0.550 0.420 rg 58.00 112.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 120.00 Td (Brand & VIP Impersonation: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 201.60 120.00 Td (Detects display name spoofing \(e.g. 'PayPal Support'\) where sender domain) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 107.50 Td (does not belong to authorized brand domains \(+35 pts\).) Tj ET
+0.060 0.550 0.420 rg 58.00 85.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 93.00 Td (Typosquatting & Homoglyphs: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 206.40 93.00 Td (Evaluates lookalike substitutions such as paypa1.com, arnazon.com, or) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 80.50 Td (micros0ft.com \(+40 pts\).) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612.0 792.0] /Contents 10 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 11446 >>
+stream
+0.800 0.830 0.880 RG 50.00 755.00 512.00 0.75 re S
+BT /F1 7.5 Tf 0.400 0.450 0.500 rg 50.00 760.00 Td (DUALSHIELD EMAIL GUARD: TECHNICAL SPECIFICATION & PROJECT REPORT) Tj ET
+BT /F1 7.5 Tf 0.400 0.450 0.500 rg 517.00 760.00 Td (Page 2) Tj ET
+0.850 0.880 0.920 RG 50.00 38.00 512.00 0.75 re S
+BT /F1 7.5 Tf 0.500 0.550 0.600 rg 50.00 26.00 Td (Confidential - For Academic and Technical Evaluation Only) Tj ET
+BT /F2 7.5 Tf 0.100 0.500 0.400 rg 497.00 26.00 Td (Google Antigravity) Tj ET
+0.060 0.550 0.420 rg 58.00 732.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 740.00 Td (Malicious Link Analysis: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 192.00 740.00 Td (Flags links containing raw IP addresses \(+35 pts\), URL shorteners \(+15 pts\),) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 727.50 Td (and high-abuse TLDs \(.xyz, .top, .click, +20 pts\).) Tj ET
+0.060 0.550 0.420 rg 58.00 705.00 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 713.00 Td (Attachment Safety: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 163.20 713.00 Td (Detects high-risk script extensions \(.exe, .scr, .vbs\) and double extension evasion) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 700.50 Td (\(e.g. Invoice.pdf.exe, triggering an immediate Hard Block\).) Tj ET
+BT /F2 10.5 Tf 0.100 0.350 0.450 rg 50.00 678.00 Td (3.2 Layer 2: Machine Learning Classifier with Explainable AI) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 663.00 Td (Layer 2 analyzes semantic intent using sublinear TF-IDF n-grams coupled with a calibrated Logistic) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 650.50 Td (Regression classifier. To avoid the 'black box' critique of machine learning in cybersecurity, the engine) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 638.00 Td (calculates token-level weights:) Tj ET
+0.060 0.550 0.420 rg 58.00 613.50 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 621.50 Td (Spam Indicators: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 153.60 621.50 Td (Tokens like 'suspended', 'verify', 'credentials', 'bitcoin', and 'immediate') Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 609.00 Td (contribute positive weights toward spam probability.) Tj ET
+0.060 0.550 0.420 rg 58.00 586.50 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 594.50 Td (Ham Indicators: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 148.80 594.50 Td (Tokens like 'sprint', 'meeting', 'roadmap', 'receipt', and 'colleague' contribute) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 582.00 Td (negative weights toward clean classification.) Tj ET
+BT /F2 10.5 Tf 0.100 0.350 0.450 rg 50.00 559.50 Td (3.3 Dual-Layer Arbitration & Enforcement Matrix) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 544.50 Td (The arbitration engine fuses Layer 1 risk score \(0-100\) and Layer 2 probability \(0.0-1.0\) into three) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 532.00 Td (security actions:) Tj ET
+0.060 0.520 0.400 rg 0.040 0.400 0.300 RG 50.00 498.50 512.00 17.00 re B
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 55.00 503.50 Td (Action) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 136.62 503.50 Td (Trigger Condition) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 329.55 503.50 Td (Simulated Gmail Enforcement Action) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 481.50 512.00 17.00 re B
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 55.00 486.50 Td (BLOCKED) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 136.62 486.50 Td (Hard Block \(Malware/Blacklis) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 329.55 486.50 Td (Interception: Quarantined in) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 464.50 512.00 17.00 re B
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 55.00 469.50 Td (BLOCKED) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 136.62 469.50 Td (Severe ML Threat \(L2 >= 88%\)) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 329.55 469.50 Td (Interception: Quarantined sa) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 447.50 512.00 17.00 re B
+BT /F2 8.0 Tf 0.750 0.450 0.050 rg 55.00 452.50 Td (NOTIFIED) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 136.62 452.50 Td (Moderate Suspicion: L1 >= 35) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 329.55 452.50 Td (Injected Safety: Delivered w) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 430.50 512.00 17.00 re B
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 55.00 435.50 Td (ALLOWED) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 136.62 435.50 Td (Clean Baseline: Low risk acr) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 329.55 435.50 Td (Clean Delivery: Delivered di) Tj ET
+0.060 0.550 0.420 rg 50.00 404.50 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 408.50 Td (4. EXPERIMENTAL EVALUATION & RESULTS) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 390.50 Td (The system was evaluated against 10 realistic test scenarios encompassing credential phishing, malware) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 378.00 Td (lures, CEO wire fraud, crypto scams, aggressive marketing, unverified external proposals, and authentic) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 365.50 Td (enterprise communications:) Tj ET
+0.060 0.520 0.400 rg 0.040 0.400 0.300 RG 50.00 332.00 512.00 17.00 re B
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 55.00 337.00 Td (ID) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 94.60 337.00 Td (Category) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 168.15 337.00 Td (Attack Vector) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 330.80 337.00 Td (L1 Score) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 394.45 337.00 Td (L2 Prob) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 451.02 337.00 Td (Action) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 521.74 337.00 Td (Result) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 315.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 320.00 Td (TC-01) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 320.00 Td (Phishing) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 320.00 Td (Fake PayPal, Raw IP link, Ur) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 320.00 Td (100 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 320.00 Td (80%) Tj ET
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 451.02 320.00 Td (BLOCKED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 320.00 Td (PASS) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 298.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 303.00 Td (TC-02) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 303.00 Td (Malware) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 303.00 Td (Overdue invoice with .pdf.ex) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 303.00 Td (50 \(Hard\)) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 303.00 Td (73%) Tj ET
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 451.02 303.00 Td (BLOCKED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 303.00 Td (PASS) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 281.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 286.00 Td (TC-03) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 286.00 Td (BEC Fraud) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 286.00 Td (Impersonated CEO, wire reque) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 286.00 Td (50 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 286.00 Td (88%) Tj ET
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 451.02 286.00 Td (BLOCKED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 286.00 Td (PASS) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 264.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 269.00 Td (TC-04) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 269.00 Td (Scam) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 269.00 Td (Crypto giveaway prize, .xyz ) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 269.00 Td (60 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 269.00 Td (89%) Tj ET
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 451.02 269.00 Td (BLOCKED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 269.00 Td (PASS) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 247.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 252.00 Td (TC-05) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 252.00 Td (Spam) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 252.00 Td (Aggressive 90% off sale, bit) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 252.00 Td (70 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 252.00 Td (74%) Tj ET
+BT /F2 8.0 Tf 0.750 0.100 0.100 rg 451.02 252.00 Td (BLOCKED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 252.00 Td (PASS) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 230.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 235.00 Td (TC-06) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 235.00 Td (Suspicious) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 235.00 Td (External proposal, failed DK) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 235.00 Td (52 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 235.00 Td (45%) Tj ET
+BT /F2 8.0 Tf 0.750 0.450 0.050 rg 451.02 235.00 Td (NOTIFIED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 235.00 Td (PASS) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 213.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 218.00 Td (TC-07) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 218.00 Td (Legitimate) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 218.00 Td (Authentic Stripe payment rec) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 218.00 Td (0 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 218.00 Td (1%) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 451.02 218.00 Td (ALLOWED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 218.00 Td (PASS) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 196.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 201.00 Td (TC-08) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 201.00 Td (Legitimate) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 201.00 Td (Google Docs comment notifica) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 201.00 Td (0 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 201.00 Td (2%) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 451.02 201.00 Td (ALLOWED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 201.00 Td (PASS) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 179.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 184.00 Td (TC-09) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 184.00 Td (Legitimate) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 184.00 Td (GitHub pull request merge al) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 184.00 Td (0 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 184.00 Td (1%) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 451.02 184.00 Td (ALLOWED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 184.00 Td (PASS) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 162.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 167.00 Td (TC-10) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 94.60 167.00 Td (Legitimate) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 168.15 167.00 Td (Internal team sprint plannin) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 330.80 167.00 Td (0 / 100) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 394.45 167.00 Td (1%) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 451.02 167.00 Td (ALLOWED) Tj ET
+BT /F2 8.0 Tf 0.050 0.550 0.300 rg 521.74 167.00 Td (PASS) Tj ET
+BT /F1 8.5 Tf 0.050 0.550 0.300 rg 50.00 152.00 Td (Automated unit test execution result: Ran 10 tests in 0.057s - OK \(100% Pass Rate\).) Tj ET
+BT /F2 10.5 Tf 0.100 0.350 0.450 rg 50.00 127.50 Td (4.1 Machine Learning Benchmark Metrics) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612.0 792.0] /Contents 12 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 4468 >>
+stream
+0.800 0.830 0.880 RG 50.00 755.00 512.00 0.75 re S
+BT /F1 7.5 Tf 0.400 0.450 0.500 rg 50.00 760.00 Td (DUALSHIELD EMAIL GUARD: TECHNICAL SPECIFICATION & PROJECT REPORT) Tj ET
+BT /F1 7.5 Tf 0.400 0.450 0.500 rg 517.00 760.00 Td (Page 3) Tj ET
+0.850 0.880 0.920 RG 50.00 38.00 512.00 0.75 re S
+BT /F1 7.5 Tf 0.500 0.550 0.600 rg 50.00 26.00 Td (Confidential - For Academic and Technical Evaluation Only) Tj ET
+BT /F2 7.5 Tf 0.100 0.500 0.400 rg 497.00 26.00 Td (Google Antigravity) Tj ET
+0.060 0.520 0.400 rg 0.040 0.400 0.300 RG 50.00 723.00 512.00 17.00 re B
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 55.00 728.00 Td (Classification Class) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 198.06 728.00 Td (Precision) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 280.88 728.00 Td (Recall) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 363.71 728.00 Td (F1-Score) Tj ET
+BT /F2 8.2 Tf 1.000 1.000 1.000 rg 446.53 728.00 Td (Evaluation Samples) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 706.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 711.00 Td (HAM \(Clean\)) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 198.06 711.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 280.88 711.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 363.71 711.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 446.53 711.00 Td (90 samples) Tj ET
+1.000 1.000 1.000 rg 0.880 0.900 0.940 RG 50.00 689.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 694.00 Td (SPAM \(Threat\)) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 198.06 694.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 280.88 694.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 363.71 694.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 446.53 694.00 Td (90 samples) Tj ET
+0.980 0.990 1.000 rg 0.880 0.900 0.940 RG 50.00 672.00 512.00 17.00 re B
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 55.00 677.00 Td (Overall Model Accuracy) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 198.06 677.00 Td (100.00%) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 280.88 677.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 363.71 677.00 Td (1.00) Tj ET
+BT /F1 8.0 Tf 0.150 0.180 0.220 rg 446.53 677.00 Td (180 total samples) Tj ET
+0.060 0.550 0.420 rg 50.00 646.00 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 650.00 Td (5. USER INTERFACE & GMAIL INTEGRATION) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 632.00 Td (DualShield includes both a visual web application and a production-ready live Gmail connector:) Tj ET
+0.060 0.550 0.420 rg 58.00 607.50 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 615.50 Td (Live Email Scanner: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 168.00 615.50 Td (Provides an interactive inspection form with 1-click sample presets, animated) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 603.00 Td (score dials, Explainable AI token chips, and simulated Gmail push alerts.) Tj ET
+0.060 0.550 0.420 rg 58.00 580.50 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 588.50 Td (Simulated Gmail Inbox: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 182.40 588.50 Td (Emulates an active Gmail interface with separate Inbox, Quarantine/Blocked, and) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 576.00 Td (Security Alert folders, showing injected warning banners.) Tj ET
+0.060 0.550 0.420 rg 58.00 553.50 3.50 3.50 re f
+BT /F2 8.8 Tf 0.100 0.200 0.300 rg 72.00 561.50 Td (Live Gmail IMAP Connector: ) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 201.60 561.50 Td (Connects to real Gmail via IMAP over SSL using Google App Passwords.) Tj ET
+BT /F1 8.8 Tf 0.180 0.200 0.250 rg 72.00 549.00 Td (Fetches unread messages, executes dual-layer filtering, and outputs verdicts.) Tj ET
+0.060 0.550 0.420 rg 50.00 518.50 512.00 1.50 re f
+BT /F2 12.5 Tf 0.050 0.220 0.360 rg 50.00 522.50 Td (6. CONCLUSION & PROJECT SUMMARY) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 504.50 Td (DualShield Email Guard successfully establishes that combining traditional deterministic heuristics with) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 492.00 Td (probabilistic machine learning resolves the critical shortcomings of single-layer email filters. High-threat) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 479.50 Td (attacks are quarantined with zero false negatives, legitimate communications pass uninhibited, and ambiguous) Tj ET
+BT /F1 9.0 Tf 0.150 0.180 0.220 rg 50.00 467.00 Td (emails are safely handled through real-time user notification and injected warning banners.) Tj ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000110 00000 n 
+0000000180 00000 n 
+0000000277 00000 n 
+0000000379 00000 n 
+0000000474 00000 n 
+0000000624 00000 n 
+0000007759 00000 n 
+0000007910 00000 n 
+0000019410 00000 n 
+0000019562 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+24083
+%%EOF

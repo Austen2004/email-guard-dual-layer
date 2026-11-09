@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Credentials & Secrets (Security Protection)
+credentials.json
+token.json
+.env
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+test.html
+test.pdf
