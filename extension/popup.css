@@ -1,0 +1,256 @@
+/* DualShield Extension Popup Styling */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 360px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.popup-container {
+  display: flex;
+  flex-col: column;
+}
+
+/* Header */
+.popup-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  background: #1e293b;
+  border-bottom: 1px solid #334155;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-icon {
+  font-size: 24px;
+}
+
+.brand h2 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #38bdf8;
+  letter-spacing: -0.02em;
+}
+
+.brand .sub {
+  font-size: 10px;
+  color: #94a3b8;
+  display: block;
+}
+
+.status-pill {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  border-radius: 9999px;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.status-pill .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+}
+
+.status-online {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+.status-online .dot {
+  background: #10b981;
+}
+
+.status-offline {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+.status-offline .dot {
+  background: #f59e0b;
+}
+
+.status-checking {
+  background: #334155;
+  color: #94a3b8;
+}
+.status-checking .dot {
+  background: #64748b;
+}
+
+/* Main Content */
+.popup-main {
+  padding: 14px 16px;
+}
+
+.card {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 12px 14px;
+  margin-bottom: 12px;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.card-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: #cbd5e1;
+}
+
+.badge {
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.badge-neutral {
+  background: #334155;
+  color: #94a3b8;
+}
+
+.badge-blocked {
+  background: #e11d48;
+  color: #ffffff;
+}
+
+.badge-notified {
+  background: #d97706;
+  color: #ffffff;
+}
+
+.badge-allowed {
+  background: #16a34a;
+  color: #ffffff;
+}
+
+.verdict-empty {
+  color: #94a3b8;
+  font-size: 11.5px;
+  text-align: center;
+  padding: 10px 4px;
+}
+
+.breakdown {
+  margin-top: 10px;
+  border-top: 1px solid #334155;
+  padding-top: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.meter-group {
+  margin-bottom: 8px;
+}
+
+.meter-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #94a3b8;
+  margin-bottom: 3px;
+}
+
+.meter-bar {
+  width: 100%;
+  height: 6px;
+  background: #0f172a;
+  border-radius: 9999px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  border-radius: 9999px;
+  transition: width 0.3s ease;
+}
+
+.fill-green { background: #10b981; }
+.fill-amber { background: #f59e0b; }
+.fill-rose  { background: #f43f5e; }
+.fill-cyan  { background: #06b6d4; }
+
+.reason-text {
+  font-size: 11px;
+  color: #e2e8f0;
+  margin-top: 8px;
+  padding: 6px 8px;
+  background: #0f172a;
+  border-radius: 6px;
+}
+
+/* Action Buttons */
+.action-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.btn {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #059669, #0d9488);
+  color: #ffffff;
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, #047857, #0f766e);
+}
+
+.btn-secondary {
+  background: #334155;
+  color: #e2e8f0;
+}
+.btn-secondary:hover {
+  background: #475569;
+}
+
+/* Footer */
+.popup-footer {
+  padding: 10px 16px;
+  border-top: 1px solid #1e293b;
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: #64748b;
+  background: #0b1120;
+}

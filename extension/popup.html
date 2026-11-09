@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DualShield Email Guard</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header -->
+    <header class="popup-header">
+      <div class="brand">
+        <div class="logo-icon">🛡️</div>
+        <div>
+          <h2>DualShield</h2>
+          <span class="sub">Gmail Threat & Spam Guard</span>
+        </div>
+      </div>
+      <div id="status-indicator" class="status-pill status-checking">
+        <span class="dot"></span>
+        <span id="status-text">Checking...</span>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="popup-main">
+      <!-- Last Scan Summary Card -->
+      <section class="card" id="scan-summary-card">
+        <div class="card-header">
+          <span class="card-title">Active Protection</span>
+          <span id="verdict-badge" class="badge badge-neutral">Ready</span>
+        </div>
+
+        <div id="last-verdict-box" class="verdict-box">
+          <div class="verdict-empty">
+            <p>Open any email in Gmail to inspect its threats automatically, or click below to trigger a live scan.</p>
+          </div>
+        </div>
+
+        <!-- Inspection Breakdown -->
+        <div id="breakdown-section" class="breakdown hidden">
+          <div class="meter-group">
+            <div class="meter-label">
+              <span>Layer 1: Traditional Rules</span>
+              <strong id="l1-score">0 / 100</strong>
+            </div>
+            <div class="meter-bar">
+              <div id="l1-bar-fill" class="fill fill-green" style="width: 0%"></div>
+            </div>
+          </div>
+
+          <div class="meter-group">
+            <div class="meter-label">
+              <span>Layer 2: ML Spam Probability</span>
+              <strong id="l2-prob">0%</strong>
+            </div>
+            <div class="meter-bar">
+              <div id="l2-bar-fill" class="fill fill-cyan" style="width: 0%"></div>
+            </div>
+          </div>
+
+          <div id="verdict-reason-text" class="reason-text"></div>
+        </div>
+      </section>
+
+      <!-- Quick Action Buttons -->
+      <div class="action-buttons">
+        <button id="btn-scan-current" class="btn btn-primary">
+          <span>⚡ Scan Open Gmail Email</span>
+        </button>
+        <button id="btn-open-dashboard" class="btn btn-secondary">
+          <span>🌐 Open Web Dashboard</span>
+        </button>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="popup-footer">
+      <span>DualShield v1.0 &bull; Two-Layer Defense</span>
+      <span id="backend-url">http://127.0.0.1:8000</span>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

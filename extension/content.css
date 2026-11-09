@@ -1,0 +1,150 @@
+/* DualShield Gmail Injected Banner Styles */
+
+.dualshield-banner-container {
+  margin: 12px 0 16px 0;
+  border-radius: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.45;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease-in-out;
+  border: 2px solid transparent;
+  overflow: hidden;
+}
+
+.dualshield-banner-inner {
+  padding: 12px 16px;
+}
+
+/* BLOCKED THREAT STATE */
+.dualshield-banner-blocked {
+  background-color: #fff1f2;
+  border-color: #f43f5e;
+  color: #881337;
+}
+
+/* NOTIFIED WARNING STATE */
+.dualshield-banner-notified {
+  background-color: #fffbeb;
+  border-color: #f59e0b;
+  color: #78350f;
+}
+
+/* ALLOWED SAFE STATE */
+.dualshield-banner-allowed {
+  background-color: #f0fdf4;
+  border-color: #22c55e;
+  color: #14532d;
+}
+
+/* SCANNING PLACEHOLDER */
+.dualshield-banner-scanning {
+  background-color: #f8fafc;
+  border: 1px dashed #94a3b8;
+  color: #475569;
+  padding: 8px 14px;
+}
+
+.dualshield-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+}
+
+.dualshield-spinner {
+  animation: pulseRotate 1.2s infinite ease-in-out;
+}
+
+@keyframes pulseRotate {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+.dualshield-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.dualshield-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.dualshield-icon {
+  font-size: 16px;
+}
+
+.dualshield-title {
+  font-weight: 700;
+  font-size: 13.5px;
+  letter-spacing: -0.01em;
+}
+
+.dualshield-badge {
+  color: #ffffff;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 10.5px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.dualshield-offline-tag {
+  background-color: #e2e8f0;
+  color: #475569;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 10px;
+}
+
+.dualshield-close-btn {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+  line-height: 1;
+}
+
+.dualshield-close-btn:hover {
+  opacity: 1;
+}
+
+.dualshield-reason {
+  margin: 4px 0 8px 0;
+  font-size: 12.5px;
+}
+
+.dualshield-metrics-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 6px;
+  flex-wrap: wrap;
+}
+
+.dualshield-metric-pill {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+}
+
+.dualshield-tips {
+  margin: 8px 0 0 18px;
+  padding: 0;
+  font-size: 11.5px;
+}
+
+.dualshield-tips li {
+  margin-bottom: 2px;
+}
